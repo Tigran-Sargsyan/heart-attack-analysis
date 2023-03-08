@@ -4,6 +4,9 @@ Kaggle dataset: https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-
 
 EDA and classification project for detecting whether a patient has a high risk of heart attack or no.
 
+You can view the project with the link below in google.colab if you want, but certain catboost plotting functions won't work there and to get a better sense of what is going on, it will be better to watch them either on your local jupyter notebook or directly on github.
+https://colab.research.google.com/drive/1GCAolXxzClJ7PnU99HNhiWWiLjIqlJwQ?usp=sharing
+
 ## Steps
 
 1. Problem formulation
